@@ -1,4 +1,4 @@
-name := "hub"
+name := "scala_practices"
 
 version := "0.1"
 
